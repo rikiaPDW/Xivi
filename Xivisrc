@@ -1,0 +1,6 @@
+@font-face {
+ font-family: Xivi;
+ font-style: normal;
+ font-weight: 400;
+ src: url(https://rawcdn.githack.com/rikiaPDW/Xivi/389691eeee35af71185a4b4b4534b490604a7661/Xivi-Regular.otf) ;
+}
